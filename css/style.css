@@ -1,0 +1,32 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+margin: 0 35%;
+font-size: 16px;
+line-height: 1.7;
+color: black;
+background: #ffeaa7;
+}
+
+h2 {
+    font-family: 'Signika', sans-serif;
+    margin: 0;  
+}
+
+h4 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    margin: 0 0 40px 0
+}
+
+main {
+    font-family: 'Kotta One', serif;
+    color: #b33939;
+}
+
+section span {
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
